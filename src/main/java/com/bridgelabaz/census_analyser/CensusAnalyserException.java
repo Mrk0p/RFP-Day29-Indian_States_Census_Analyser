@@ -18,3 +18,4 @@ public class CensusAnalyserException extends Throwable {
         this.type = type;
     }
 }
+
